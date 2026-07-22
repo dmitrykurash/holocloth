@@ -27,12 +27,13 @@ You get a sheet of simulated cloth floating in space. You can grab it, throw it 
 
 ## Run it
 
+One line (needs Node 20+ and git):
+
 ```bash
-npm install
-npm run dev
+git clone https://github.com/dmitrykurash/holocloth.git && cd holocloth && npm install && npm run dev
 ```
 
-That's it. Open the local URL Vite prints.
+Then open the local URL Vite prints — usually `http://localhost:5199`.
 
 ## Tech
 
